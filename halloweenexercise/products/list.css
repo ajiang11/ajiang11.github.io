@@ -40,8 +40,6 @@ a{
     color: black;
     font-weight: bold;
     margin-left: 0px;
-    transition: color 1s ease-in 1s;
-    text-decoration: none;
 }
 
 a:hover, a:focus{
@@ -69,7 +67,7 @@ footer{
     font-size: 15px;
     text-align:left;
     margin-left: 300px;
-    margin-bottom: 0px;
+    margin-bottom: 300px;
 }
 
 .d1{
@@ -102,7 +100,6 @@ footer{
 
 #nav_menu ul li a{
     color:white;
-    text-decoration: none;
 }
 
 #nav_menu ul ul{
